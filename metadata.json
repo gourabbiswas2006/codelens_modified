@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens",
+  "description": "Enterprise AI Code & Document Intelligence Platform with Liquid Glass UX. Explains code line-by-line, runs compliance audits, provides verifiable Q&A citations, debugs code errors, and translates terminal output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
